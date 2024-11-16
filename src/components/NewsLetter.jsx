@@ -25,7 +25,7 @@ const NewsLetter = () => {
           <input
             type="email"
             placeholder="Enter your email address"
-            className="w-full md:w-2/3 p-2 border lg:w-[400px]  border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500 lg:ml-[150px]"
+            className="w-full md:w-2/3 p-2 border lg:w-[400px] border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500 lg:ml-[150px]"
           />
           <button
             type="submit"
